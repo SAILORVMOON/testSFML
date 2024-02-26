@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\lesha\source\repos\testSFML\testSFML\Source.cpp(184,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\lesha\source\repos\testSFML\testSFML\Source.cpp(184,42): warning C4244:         with
+C:\Users\lesha\source\repos\testSFML\testSFML\Source.cpp(184,42): warning C4244:         [
+C:\Users\lesha\source\repos\testSFML\testSFML\Source.cpp(184,42): warning C4244:             T=float
+C:\Users\lesha\source\repos\testSFML\testSFML\Source.cpp(184,42): warning C4244:         ]
+  Создание кода
+  0 of 20 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  testSFML.vcxproj -> C:\Users\lesha\source\repos\testSFML\x64\Release\testSFML.exe
